@@ -2,8 +2,8 @@
 
 ### Developpeur web React / Express
 <ul>
-  <li><a href="https://m-valentin-51.github.io/Project-1/">The program of the season</a></li>
-  <li><a href="https://findfuel.netlify.app">Find Fuel</a></li>
+  <li><a href="https://github.com/M-Valentin-51/authentification_server">Auth server </a></li>
+  <li><a href="https://github.com/M-Valentin-51/iptv">Player for iptv</a></li>
   </ul>
 
 ### My GitHub stats 
